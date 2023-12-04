@@ -1,0 +1,31 @@
+.nav-center-container{
+    display: flex;
+    align-items: center;
+}
+
+.box-icon{
+    display: flex;
+    border: 2px solid white;
+    border-radius: 35px;
+    overflow: hidden;
+}
+
+#user-input{
+    width: 40vw;
+    height: 100%;
+
+
+}
+.input-box{
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.search-icon{
+    padding: 17px;
+    font-size: larger;
+}
+
+.mic-icon{
+    margin: 0 20px;
+}
