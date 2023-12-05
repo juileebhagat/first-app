@@ -37,48 +37,57 @@
 //     <AnotherComponent/>
 // </>
 
-<>
-<YouTube/> 
-</>
-  // <div style={{display:"flex", flexWrap:"wrap"}}>
-     
-  //   {
-  //     myStudentList.map(student =>(
-  //       <Student 
-  //   name={student.name}
-  //   dob={student.dob} 
-  //   city={student.city}/>
-  //     ))
-  //   }
-    
-    
-    // {/* <Student 
-    // name="Pratiksha" 
-    // dob="18/06/2002" 
-    // city="Nagar" 
-    // />
-    // <Student 
-    // name="Kiran" 
-    // dob="14/02/2001" 
-    // city="Nagar" 
-    // />
-    // <Student 
-    // name="Kiran" 
-    // dob="14/02/2001" 
-    // city="Nagar" 
-    // />
-    // <Student 
-    // name="Kiran" 
-    // dob="14/02/2001" 
-    // city="Nagar" 
-    // /> */}
+     <>
+       //     //<Navbar/>
+       //     // <Footer/>
+       //     // <>
+       //     // {/* <h1>Welcome {name} </h1>
+       //     // <h3>City: {city}</h3> */}
+       //     // </>
+       //     <>
+       //     <MyNewComponent/>
+       //     <AnotherComponent/>
+       // </>
+       <>
+         <YouTube />
+       </>
+       // <div style={{display:"flex", flexWrap:"wrap"}}>
+       //   {
+       //     myStudentList.map(student =>(
+       //       <Student 
+       //   name={student.name}
+       //   dob={student.dob} 
+       //   city={student.city}/>
+       //     ))
+       //   }
+       // {/* <Student 
+       // name="Pratiksha" 
+       // dob="18/06/2002" 
+       // city="Nagar" 
+       // />
+       // <Student 
+       // name="Kiran" 
+       // dob="14/02/2001" 
+       // city="Nagar" 
+       // />
+       // <Student 
+       // name="Kiran" 
+       // dob="14/02/2001" 
+       // city="Nagar" 
+       // />
+       // <Student 
+       // name="Kiran" 
+       // dob="14/02/2001" 
+       // city="Nagar" 
+       // /> */}
+       //   {/* <img 
+       //   src="" 
+       //   alt=""
+       //   height={} /> */}
+       // </div>
+       <h1>this is my h1</h1>
+       </>
 
-  //   {/* <img 
-  //   src="" 
-  //   alt=""
-  //   height={} /> */}
-  // </div>
-  
   )
  }
 
